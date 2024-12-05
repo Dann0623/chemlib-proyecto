@@ -4,17 +4,17 @@ Este repositorio contiene funciones y ejemplos para trabajar con conceptos de qu
 
 ## Funcionalidades Principales
 
-1. **Compuestos Químicos**
+1. **Compuestos_Químicos**
    - Creación de compuestos a partir de fórmulas.
    - Cálculo de masa molar.
   
-2. **Composición Porcentual**
+2. **Composición_Porcentual**
    - Determinación de composición porcentual en masa.
 
 3. **Estequiometría**
    - Cálculos estequiométricos para balancear reacciones.
   
-4. **Reacciones Químicas**
+4. **Reacciones_Químicas**
    - Balanceo de ecuaciones químicas.
    - Representación de reacciones químicas.
 
